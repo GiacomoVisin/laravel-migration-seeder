@@ -16,6 +16,9 @@
 
 <body>
     <h1> Laravel Migration </h1>
+
+    
+
 </body>
 
 </html>
